@@ -1,16 +1,17 @@
-### Hi there 👋
+### Repos
+- ["Discord botti"](https://github.com/fa1t666/ticketbotti)
+- - ["Advanced Fivem connect logs"](https://github.com/fa1t666/logit)
+- - - ["Fivem jail script"](https://github.com/TehRamsus/esx_extendedjail) - *TehRamsus*
 
-<!--
-**fa1t666/fa1t666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stats
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/794262215523827792/822918326795108423/bimbo.gif" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fa1t666&show_icons=true&theme=buefy" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fa1t666&layout=compact&theme=buefy" />
+</p>
