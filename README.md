@@ -5,11 +5,7 @@
 
 ### Stats
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/794262215523827792/822918326795108423/bimbo.gif" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fa1t666&show_icons=true&theme=buefy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fa1t666&show_icons=true&count_private=true&include_all_commits=true&theme=buefy" />
 </p>
 
 <p align="center">
