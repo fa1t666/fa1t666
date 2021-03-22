@@ -1,7 +1,7 @@
 ### Repos
 - ["Discord botti"](https://github.com/fa1t666/ticketbotti)
-- - ["Advanced Fivem connect logs"](https://github.com/fa1t666/logit)
-- - - ["Fivem jail script"](https://github.com/TehRamsus/esx_extendedjail) - *TehRamsus*
+- ["Advanced Fivem connect logs"](https://github.com/fa1t666/logit)
+- ["Fivem jail script"](https://github.com/TehRamsus/esx_extendedjail) - *Made by: TehRamsus | I have only contributed in to some parts*
 
 ### Stats
 
