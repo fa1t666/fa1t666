@@ -4,7 +4,7 @@
 - ["Fivem jail script"](https://github.com/TehRamsus/esx_extendedjail) - *Made by: TehRamsus | I have only contributed in to some parts*
 
 
-- Image uploader, pastebin, url shortener, full userdata rest api etc. coming soon (as a website not source code :D)
+- Image uploader, pastebin, url shortener, full userdata rest api etc. coming soon (as a website not source code [maybe one day source will be released] :D)
 
 ### Stats
 
