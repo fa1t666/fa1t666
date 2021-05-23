@@ -1,5 +1,6 @@
 ### Repos
-- ["Discord botti"](https://github.com/fa1t666/ticketbotti)
+- ["Ticket bot"](https://github.com/fa1t666/ticketbotti)
+- ["Imgur uploader bot"](https://github.com/fa1t666/imgur-uploader-bot)
 - ["Advanced Fivem connect logs"](https://github.com/fa1t666/logit)
 - ["Fivem jail script"](https://github.com/TehRamsus/esx_extendedjail) - *Made by: TehRamsus | I have only contributed in to some parts*
 
