@@ -1,3 +1,5 @@
+<strong>For da memezz</strong>
+
 ### Repos
 - ["Ticket bot"](https://github.com/fa1t666/ticketbotti)
 - ["Imgur uploader bot"](https://github.com/fa1t666/imgur-uploader-bot)
