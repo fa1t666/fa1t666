@@ -1,4 +1,5 @@
 <strong>For da memezz</strong>
+<p>Js, Ts, Php, Laravel, Lua</p>
 
 ### Repos
 - ["Ticket bot"](https://github.com/fa1t666/ticketbotti)
