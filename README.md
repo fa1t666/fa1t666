@@ -1,5 +1,6 @@
 <strong>For da memezz</strong>
-<p>Js, Ts, Php, Laravel, Lua</p>
+<p>Coding languages: Js [node, ts etc. ], Php [laravel also], Lua and little bit of some other ones</p>
+<p>MongoDb, MySql</p>
 
 ### Repos
 - ["Ticket bot"](https://github.com/fa1t666/ticketbotti)
