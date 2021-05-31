@@ -4,6 +4,7 @@
 - ["Ticket bot"](https://github.com/fa1t666/ticketbotti)
 - ["Imgur uploader bot"](https://github.com/fa1t666/imgur-uploader-bot)
 - ["Advanced Fivem connect logs"](https://github.com/fa1t666/logit)
+- ["proc.wtf"](https://github.com/PEEVEE2020/proc.wtf)
 
 ### Stats
 
